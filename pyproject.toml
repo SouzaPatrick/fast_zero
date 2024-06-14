@@ -28,7 +28,7 @@ select = ["I", "F", "E", "W", "PL", "PT"]
 
 [tool.ruff.format]
 preview = true
-quote-style = "single"
+quote-style = "double"
 
 [tool.pytest.ini_options]
 pythonpath = "."
